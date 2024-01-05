@@ -1,0 +1,7 @@
+pypdf
+gradio 
+langchain
+accelerate
+rank_bm25
+sentence_transformers
+openai
